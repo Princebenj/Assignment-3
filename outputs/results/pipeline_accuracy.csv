@@ -1,2 +1,0 @@
-n_images,count_mae,count_bias,pct_within_10pct,density_class_agreement,llm_valid_rate,records_all_fields_verbatim,narratives_clean
-12,12.08,-12.08,25.0,75.0,0.0,100.0,100.0

@@ -1,4 +1,0 @@
-prompt,parsed_rate,schema_valid_rate,mean_latency_s,said_uncertain
-naive,0.0,,6.8,False
-structured_no_uncertainty,1.0,1.0,2.5,False
-optimised,1.0,1.0,1.6,True
