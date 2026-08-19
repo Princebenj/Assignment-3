@@ -1,0 +1,4 @@
+loss,best_epoch,best_val_dice,val_iou_at_best,final_train_loss,total_minutes
+bce,15,0.9958,0.9916,0.0757,0.3
+dice,24,0.996,0.992,0.1915,0.4
+bce_dice,24,0.9956,0.9913,0.1652,0.4
