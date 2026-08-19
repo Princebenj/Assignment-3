@@ -1,0 +1,3 @@
+model,schema_valid,mean_latency,example,error
+llava:7b,1.0,1.8,"{""modality"": ""uncertain"", ""tissue_type"": ""uncertain"", ""notable_features"": [""<up to 5 short visual observations>""], ""image_quality"": ""uncertain""}",
+moondream,1.0,14.8,"{""modality"": ""fluorescence"", ""tissue_type"": ""cell"", ""notable_features"": [""up to 5 short visual observations""], ""image_quality"": ""good""}",
