@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Dataset is cloned by setup.sh from its own repository
+data/
+
+# Images sent to the vision model: 18 near-identical copies of one test image.
+# The JSONL logs themselves are kept as evidence of the LLM outputs.
+outputs/llm_logs/sent_images/
+
+# Runtime logs and scratch
+ollama*.log
+outputs.zip
+*.zip
