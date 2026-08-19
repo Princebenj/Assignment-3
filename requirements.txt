@@ -1,0 +1,16 @@
+# Core scientific stack
+numpy>=1.24
+pandas>=2.0
+matplotlib>=3.7
+scikit-image>=0.22
+scipy>=1.10
+Pillow>=10.0
+
+# Deep learning (Task 3). On Colab torch is preinstalled with CUDA.
+torch>=2.0
+
+# LLM access (Tasks 1, 2, 4) - Ollama is called over plain HTTP
+requests>=2.31
+
+# Notebook display helpers
+ipython>=8.0
